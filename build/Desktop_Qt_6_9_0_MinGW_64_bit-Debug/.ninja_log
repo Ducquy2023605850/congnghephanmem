@@ -1,0 +1,23 @@
+# ninja log v6
+3844	4137	7670503365431795	dangnhap.exe	cace17dbd1226668
+52	279	7670503327512080	dangnhap_autogen/timestamp	ec0d837187307973
+52	279	7670503327512080	D:/qtproject/dangnhap/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/dangnhap_autogen/timestamp	ec0d837187307973
+52	279	7670503327512080	dangnhap_autogen/mocs_compilation.cpp	ec0d837187307973
+1010	4602	7670501446336400	CMakeFiles/dangnhap.dir/dangnhap_autogen/mocs_compilation.cpp.obj	127127febcdda54f
+52	279	7670503327512080	D:/qtproject/dangnhap/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/dangnhap_autogen/mocs_compilation.cpp	ec0d837187307973
+280	3844	7670503329792468	CMakeFiles/dangnhap.dir/mainwindow.cpp.obj	4a55de563ad58350
+1015	4694	7670501446396605	CMakeFiles/dangnhap.dir/main.cpp.obj	e67da3310d6f1f70
+59	1363	7670510380766322	dangnhap_autogen/timestamp	ec0d837187307973
+59	1363	7670510380766322	dangnhap_autogen/mocs_compilation.cpp	ec0d837187307973
+59	1363	7670510380766322	D:/qtproject/dangnhap/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/dangnhap_autogen/timestamp	ec0d837187307973
+59	1363	7670510380766322	D:/qtproject/dangnhap/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/dangnhap_autogen/mocs_compilation.cpp	ec0d837187307973
+1386	5641	7670510382252908	CMakeFiles/dangnhap.dir/secdialog.cpp.obj	141ce877bf79f6c2
+54	1045	7670511449956896	dangnhap_autogen/timestamp	ec0d837187307973
+54	1045	7670511449956896	dangnhap_autogen/mocs_compilation.cpp	ec0d837187307973
+54	1045	7670511449956896	D:/qtproject/dangnhap/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/dangnhap_autogen/timestamp	ec0d837187307973
+54	1045	7670511449956896	D:/qtproject/dangnhap/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/dangnhap_autogen/mocs_compilation.cpp	ec0d837187307973
+1053	5529	7670511451074586	CMakeFiles/dangnhap.dir/main.cpp.obj	e67da3310d6f1f70
+1046	5597	7670511450924643	CMakeFiles/dangnhap.dir/dangnhap_autogen/mocs_compilation.cpp.obj	127127febcdda54f
+1066	5726	7670511451234900	CMakeFiles/dangnhap.dir/secdialog.cpp.obj	141ce877bf79f6c2
+1059	5978	7670511451074586	CMakeFiles/dangnhap.dir/mainwindow.cpp.obj	4a55de563ad58350
+5978	6375	7670511500359421	dangnhap.exe	ad3f173eca1c44a9
