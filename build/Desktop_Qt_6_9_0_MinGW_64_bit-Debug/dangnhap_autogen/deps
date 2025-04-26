@@ -586,6 +586,9 @@ dangnhap_autogen/timestamp: \
 	D:/qtproject/dangnhap/mainwindow.h \
 	D:/qtproject/dangnhap/secdialog.cpp \
 	D:/qtproject/dangnhap/secdialog.h \
+	D:/qtproject/dangnhap/thirddialog.cpp \
+	D:/qtproject/dangnhap/thirddialog.h \
 	D:/qtproject/dangnhap/mainwindow.ui \
 	D:/qtproject/dangnhap/secdialog.ui \
+	D:/qtproject/dangnhap/thirddialog.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

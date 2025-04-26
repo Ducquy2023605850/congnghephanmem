@@ -81,6 +81,14 @@ build CMakeFiles/dangnhap.dir/secdialog.cpp.obj: CXX_COMPILER__dangnhap_unscanne
   OBJECT_DIR = CMakeFiles\dangnhap.dir
   OBJECT_FILE_DIR = CMakeFiles\dangnhap.dir
 
+build CMakeFiles/dangnhap.dir/thirddialog.cpp.obj: CXX_COMPILER__dangnhap_unscanned_Debug D$:/qtproject/dangnhap/thirddialog.cpp || cmake_object_order_depends_target_dangnhap
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\dangnhap.dir\thirddialog.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -ID:/qtproject/dangnhap/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/dangnhap_autogen/include -isystem C:/Qt/6.9.0/mingw_64/include/QtCore -isystem C:/Qt/6.9.0/mingw_64/include -isystem C:/Qt/6.9.0/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.0/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.0/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\dangnhap.dir
+  OBJECT_FILE_DIR = CMakeFiles\dangnhap.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target dangnhap
@@ -89,7 +97,7 @@ build CMakeFiles/dangnhap.dir/secdialog.cpp.obj: CXX_COMPILER__dangnhap_unscanne
 #############################################
 # Link the executable dangnhap.exe
 
-build dangnhap.exe: CXX_EXECUTABLE_LINKER__dangnhap_Debug CMakeFiles/dangnhap.dir/dangnhap_autogen/mocs_compilation.cpp.obj CMakeFiles/dangnhap.dir/main.cpp.obj CMakeFiles/dangnhap.dir/mainwindow.cpp.obj CMakeFiles/dangnhap.dir/secdialog.cpp.obj | C$:/Qt/6.9.0/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Core.a C$:/Qt/6.9.0/mingw_64/lib/libQt6EntryPoint.a || dangnhap_autogen dangnhap_autogen_timestamp_deps
+build dangnhap.exe: CXX_EXECUTABLE_LINKER__dangnhap_Debug CMakeFiles/dangnhap.dir/dangnhap_autogen/mocs_compilation.cpp.obj CMakeFiles/dangnhap.dir/main.cpp.obj CMakeFiles/dangnhap.dir/mainwindow.cpp.obj CMakeFiles/dangnhap.dir/secdialog.cpp.obj CMakeFiles/dangnhap.dir/thirddialog.cpp.obj | C$:/Qt/6.9.0/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.0/mingw_64/lib/libQt6Core.a C$:/Qt/6.9.0/mingw_64/lib/libQt6EntryPoint.a || dangnhap_autogen dangnhap_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.9.0/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.9.0/mingw_64/lib/libQt6Gui.a  C:/Qt/6.9.0/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.9.0/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -176,7 +184,7 @@ build dangnhap_autogen_timestamp_deps: phony
 #############################################
 # Utility command for dangnhap_autogen
 
-build dangnhap_autogen: phony CMakeFiles/dangnhap_autogen dangnhap_autogen/include/ui_mainwindow.h dangnhap_autogen/include/ui_secdialog.h dangnhap_autogen/timestamp dangnhap_autogen/mocs_compilation.cpp dangnhap_autogen_timestamp_deps
+build dangnhap_autogen: phony CMakeFiles/dangnhap_autogen dangnhap_autogen/include/ui_mainwindow.h dangnhap_autogen/include/ui_secdialog.h dangnhap_autogen/include/ui_thirddialog.h dangnhap_autogen/timestamp dangnhap_autogen/mocs_compilation.cpp dangnhap_autogen_timestamp_deps
 
 
 #############################################
@@ -193,7 +201,7 @@ build dangnhap_autogen/timestamp dangnhap_autogen/mocs_compilation.cpp | ${cmake
 #############################################
 # Phony custom command for CMakeFiles\dangnhap_autogen
 
-build CMakeFiles/dangnhap_autogen dangnhap_autogen/include/ui_mainwindow.h dangnhap_autogen/include/ui_secdialog.h | ${cmake_ninja_workdir}CMakeFiles/dangnhap_autogen ${cmake_ninja_workdir}dangnhap_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}dangnhap_autogen/include/ui_secdialog.h: phony dangnhap_autogen/timestamp || dangnhap_autogen_timestamp_deps
+build CMakeFiles/dangnhap_autogen dangnhap_autogen/include/ui_mainwindow.h dangnhap_autogen/include/ui_secdialog.h dangnhap_autogen/include/ui_thirddialog.h | ${cmake_ninja_workdir}CMakeFiles/dangnhap_autogen ${cmake_ninja_workdir}dangnhap_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}dangnhap_autogen/include/ui_secdialog.h ${cmake_ninja_workdir}dangnhap_autogen/include/ui_thirddialog.h: phony dangnhap_autogen/timestamp || dangnhap_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

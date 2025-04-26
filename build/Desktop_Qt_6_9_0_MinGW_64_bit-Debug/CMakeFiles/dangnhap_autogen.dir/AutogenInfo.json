@@ -342,6 +342,12 @@
 			"MU",
 			"EWIEGA46WW/moc_secdialog.cpp",
 			null
+		],
+		[
+			"D:/qtproject/dangnhap/thirddialog.h",
+			"MU",
+			"EWIEGA46WW/moc_thirddialog.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -417,7 +423,8 @@
 	[
 		[ "D:/qtproject/dangnhap/main.cpp", "MU", null ],
 		[ "D:/qtproject/dangnhap/mainwindow.cpp", "MU", null ],
-		[ "D:/qtproject/dangnhap/secdialog.cpp", "MU", null ]
+		[ "D:/qtproject/dangnhap/secdialog.cpp", "MU", null ],
+		[ "D:/qtproject/dangnhap/thirddialog.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

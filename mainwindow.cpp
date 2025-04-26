@@ -24,6 +24,8 @@ void MainWindow::on_pushButton_login_clicked()
         secdialog= new SecDialog(this);
         secdialog->show();
 
+
+
     }
     else {
         QMessageBox::warning(this,"Đăng nhập","Đăng nhập thất bại!");

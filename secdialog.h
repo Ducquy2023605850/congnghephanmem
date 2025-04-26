@@ -20,6 +20,7 @@ private slots:
 
 private:
     Ui::SecDialog *ui;
+
 };
 
 #endif // SECDIALOG_H

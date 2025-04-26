@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-b2dee81e349131bbddfb.json",
+					"jsonFile" : "directory-.-Debug-7de11b904cb2095eb284.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "dangnhap::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-dangnhap-Debug-9e93cadadda99ee6fb0a.json",
+					"jsonFile" : "target-dangnhap-Debug-300c23d959500a06fdb1.json",
 					"name" : "dangnhap",
 					"projectIndex" : 0
 				},
